@@ -28,7 +28,7 @@ $(function()
 	},{
 		artist: "Sóc Nâu ft Minh Huy",
 		name: "Yêu đơn phương",
-		url: "Musics/NeuAnhDi.mp3",
+		url: "Musics/yeudonphuong.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
